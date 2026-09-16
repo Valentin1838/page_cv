@@ -63,7 +63,7 @@ Résultat : première expérience de support utilisateur en environnement profes
 
 ### CV web statique — 2026
 Conception, validation et publication de ce CV sur GitHub Pages : HTML sémantique, CSS mobile-first, accessibilité et SEO.
-Résultat : 0 erreur W3C, scores PageSpeed mobile ≥ 90 (voir le README du dépôt).
+Résultat : 0 erreur W3C, PageSpeed mobile 100 / 100 / 100 / 100 (performance, accessibilité, bonnes pratiques, SEO) — voir le README du dépôt.
 
 ## Ce que je cherche en alternance
 

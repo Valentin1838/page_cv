@@ -79,4 +79,4 @@ Résultat : 0 erreur W3C, scores PageSpeed mobile ≥ 90 (voir le README du dép
 
 ## Contact
 
-Uniquement via mon profil GitHub : https://github.com/ALIAS
+Uniquement via mon profil GitHub : https://github.com/Valentin1838

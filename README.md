@@ -2,8 +2,8 @@
 
 CV en ligne simple, lisible et responsive, publié avec GitHub Pages.
 
-- **Dépôt GitHub :** https://github.com/ALIAS/page_cv
-- **Site en ligne :** https://ALIAS.github.io/page_cv/
+- **Dépôt GitHub :** https://github.com/Valentin1838/page_cv
+- **Site en ligne :** https://valentin1838.github.io/page_cv/
 
 ## Confidentialité
 
